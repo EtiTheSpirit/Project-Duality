@@ -3,7 +3,7 @@
 ![Duality](https://i.imgur.com/icbUnPg.png "Project Duality")
 
 
-Project Duality is an AI. The AI is intended to meet a set of goals I wish to achieve both personally and globally.
+Project Duality is an AI intended to meet a set of goals I wish to achieve both personally and globally.
 
 ## The goal
 
