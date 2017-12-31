@@ -3,13 +3,14 @@
 ![Duality](https://i.imgur.com/icbUnPg.png "Project Duality")
 
 
-Project Duality is an AI intended to meet a set of goals I wish to achieve both personally and globally.
+Project Duality is an AI intended to serve as a personal learning experience in neural networking in hopes of larger potential for future projects, alongside also serving as a platform for more user-oriented development of intelligence with a modular save/load system.
 
-## The goal
+## The list of goals.
 
-The goal with Duality is to be able to ...
+The goals that must be met in order for Project Duality to be deemed successful are ...
 
-* Provide a modular AI framework that is easy to use
- * ...that is also specifically designed for tinkering, and
- * is friendly to even people new to AI
-* Run on hardware that may not be viewed as capable of machine learning i.e. a Raspberry Pi 3.0
+* To provide a modular AI framework that is easy to use
+ * ...that is also specifically designed for an environment of "tinkering", and
+ * is easy to use for people not familiar with the systems of neural networking.
+* Run on hardware that may not be viewed as capable of machine learning.
+ * And, if applicable, potentially be run on portable devices.
