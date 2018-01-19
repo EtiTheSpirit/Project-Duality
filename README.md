@@ -2,17 +2,16 @@
 
 ![Duality](https://i.imgur.com/icbUnPg.png "Project Duality")
 
+Project Duality is an AI framework intended primarily for personal learning of the fundementals of machine learning. The learning system is intended to be modular via the ability to save or load universally common "knowledge" files *(`*.pdkb` - Project Duality Knowledge Base)* - These files store information stored by an AI in a common manner so that it can be easily ported to other instances. Likewise, AI instances as a whole will be saved to file *(`*.pdi` - Project Duality Instance)* so that they can be ported to other machines with ease. Instances will internally store `.pdkb` files and will not reference external files for the sake of compatibility.
 
-Project Duality is an AI intended to serve as a personal learning experience in neural networking in hopes of larger potential for future projects, alongside also serving as a platform for more user-oriented development of intelligence with a modular save/load system.
+## The primary goals
+These are the goals that I have set for the development of Project Duality
 
-## The list of goals.
+* Duality must provide a modular AI framework that is easy to work with in code.
 
-The goals that must be met in order for Project Duality to be deemed successful are ...
-* To provide a modular AI framework that is easy to develop on
+  * The framework must be specifically designed for an environment of tinkering or any other method of testing, and
 
-  * ...that is also specifically designed for an environment of "tinkering", and
-
-  * ...is easy to use on the user-end for people not familiar with the systems of neural networking.
+  * Include the capability to learn from any source of information.
 
 * Run on hardware that may not be viewed as capable of machine learning.
 
