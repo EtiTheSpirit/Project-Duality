@@ -2,7 +2,7 @@
 
 ![Duality](https://i.imgur.com/icbUnPg.png "Project Duality")
 
-Project Duality is an AI framework intended primarily for personally learning the fundementals of machine learning. The learning system is intended to be modular via the ability to save or load universally common knowledge files *(`*.pdks` - Project Duality Knowledge Store)* - These files contain information stored/learned by an AI. This knowledge is written in a common format so that it can be easily ported to other instances. Alternatively, entire AI instances (AI with knowledge and any tweaks) will be saved to a file. *(`*.pdi` - Project Duality Instance)* `*.pdi` files will contain embedded `*.pdks` files and will *not* reference external files - This means that any files loaded in will be duplicated for local storage. This is to ensure that portability is maintained. For additional information on the formats and what they do, please see [the format information sheet](https://github.com/XanTheDragon/Project-Duality/blob/master/FORMAT-SPECS.MD).
+Project Duality is an AI framework intended primarily for personally learning the fundementals of machine learning. Duality will run on an instance based system. This means that the entirety of an AI's knowledge can be saved to a file and ported to other machines. There will be two major file types used by Duality. You can find information on the formats and what their purpose is on [the format information sheet](https://github.com/XanTheDragon/Project-Duality/blob/master/FORMAT-SPECS.MD).
 
 ## The primary goals
 These are the goals that I have set for the development of Project Duality
