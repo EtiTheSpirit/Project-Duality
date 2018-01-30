@@ -1,8 +1,8 @@
 # Project Duality Format Specs
-This document serves as an information sheet designed to explain what the formats used by Duality serve as, as well as when they should be used.
+This document serves as an information sheet designed to explain what the formats used by Duality store and should be used for.
 
 ## Project Duality Knowledge Store (PDKS)
-The `*.pdks` extension denotes a knowledge store. This format is where the modular user-end comes into play. These files will store information about both what the AI learns as well as basic usage. However, proper usage of this information (if it is ported into an instance not tailored to handle said information) can **not** be guaranteed, as some of the usage capabilities are defined in the root AI.
+The `*.pdks` extension denotes a knowledge store. Files of this type will store information in a common format, and can be imported into instances to grant an instance knowledge on whatever is stored. Likewise, knowledge stores can be exported from instances. Methodology for this has not been designed however, and will be appended to documentation at a later time.
 
 ## Project Duality Instance
-The `*.pdi` extension denotes an AI as a whole. It inclues 100% of the information in the AI. This allows for easy porting of your AI to other devices. In order to ensure ease of access, the user can utilize the interface included with Duality to export some knowledge as a `PDKS`, as well as view what other `PDKS` files have been imported to the AI.
+The `*.pdi` extension denotes an entire instance of AI. Instance is used to describe an AI as a whole, where the information stored in a PDI includes 100% of the knowledge, ideas, and other unique forms of information. As an independent store of this information, the capability to port AI to other devices or create backups/duplicates is readily available.
