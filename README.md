@@ -4,16 +4,23 @@
 
 Project Duality is an AI framework intended primarily for personally learning the fundementals of machine learning. Duality will run on an instance based system. This means that the entirety of an AI's knowledge can be saved to a file and ported to other machines. There will be two major file types used by Duality. You can find information on the formats and what their purpose is on [the format information sheet](https://github.com/XanTheDragon/Project-Duality/blob/master/FORMAT-SPECS.MD).
 
-## The primary goals
-These are the goals that I have set for the development of Project Duality
+## Primary goals
+These are the primary goals that I have set for the development of Project Duality. All of the goals listed in this category **must** be met before any public release of Duality will be offered.
 
 * Duality must provide a modular AI framework that is easy to work with in code.
 
-  * The framework must be specifically designed for an environment of tinkering or any other method of testing, and
+  * The framework must be specifically designed for an environment of tinkering or any other method of testing.
 
-  * Include the capability to learn from any source of information defined by the user via provided learning methods that can be expanded upon.
+  * The framework must also include the capability to learn from virtually any source of information. 
+  
+    * The user must be able to easily interface with any input devices¹
+    
+    * The framework must also offer a method of sending information to the learning system that can be modified by the user.
+  
+## Secondary goals
+These are the secondary goals set for the development of Project Duality. These goals are **not** required for a successful design, but have great importance in the quality of the final product.
 
-* Run on hardware that may not be viewed as capable of machine learning.
+* Duality should be able to run on hardware that may not be viewed as capable of machine learning.
 
   * And, if applicable, potentially be run on portable devices.
   
