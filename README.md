@@ -17,7 +17,7 @@ These are the primary goals that I have set for the development of Project Duali
     
     * The framework must also offer a method of sending information to the learning system that can be modified by the user.
     
-##### ¹This point will remain unspecific until a specification sheet stating what input devices and methods of input are allowed by the framework.
+###### ¹This point will remain unspecific until a specification sheet stating what input devices and methods of input are allowed by the framework.
   
 ## Secondary goals
 These are the secondary goals set for the development of Project Duality. These goals are **not** required for a successful design, but have great importance in the quality of the final product.
