@@ -15,7 +15,7 @@ These are the primary goals that I have set for the development of Project Duali
   
     * The framework must offer a method of sending information to the learning system that can be modified by the user, but is otherwise automated in such a way that the user only has to define basic handling procedure.
       
-      * Methods of monitoring and fine tuning the "neuron" connections, where viewing the score and altering the weight are straightforward processes.
+    * Methods of monitoring and fine tuning the "neuron" connections, where viewing the score and altering the weight are straightforward processes.
   
 ## Secondary goals
 These are the secondary goals set for the development of Project Duality. These goals are **not** required for a successful design, but have great importance in the quality of the final product.
